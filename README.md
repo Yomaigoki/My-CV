@@ -48,6 +48,9 @@ A basic description of my life and career
 <form>
 <input type ="text" name ="Email" value ="Email"></br>
 <input type ="text" name ="Phone Number" Value= "Phone Number"><br />
+
+<textarea type="text" Value="Type Your Message here"></textarea><br />
+<input Type="Submit" Value="Submit">
 </form>
 
 	</body>
