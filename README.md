@@ -44,6 +44,11 @@ A basic description of my life and career
 
 </table>
 
+<h2><i>Write me a message</i></h2>
+<form>
+<input type ="text" name ="Email" value ="Email"></br>
+<input type ="text" name ="Phone Number" Value= "Phone Number"><br />
+</form>
 
 	</body>
 </html>
